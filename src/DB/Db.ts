@@ -2,14 +2,14 @@ export const content = [
     {
         id: 1,
         title: 'Hamburge',
-        description: 'hamburge de mato',
-        price: '10$',
+        description: 'Hamburguer vegano acompanhado com alface, tomate, carne de couve, molho de brócolis e porção de batatas assadas',
+        price: 'R$ 25,00',
     },
 
     {
         id: 2,
         title: 'Salada',
-        description: 'mato sobre mato',
+        description: 'mato com mato',
         price: '10$',
     },
 

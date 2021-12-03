@@ -30,7 +30,7 @@ export function HomePage() {
                         user
                     }
                 </View>
-                <Profile />
+                <Profile style={{}}/>
             </View>
             <Text style={ style.cardapio } >Cardapio</Text>
             <ScrollView horizontal={ true } showsHorizontalScrollIndicator={ false } >
